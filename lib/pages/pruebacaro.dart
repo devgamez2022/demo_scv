@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class caro extends StatelessWidget {
-  const caro({super.key});
+class pruebacaro extends StatelessWidget {
+  const pruebacaro({super.key});
 
   @override
   Widget build(BuildContext context) {
