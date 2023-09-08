@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 
-class cecilia extends StatelessWidget {
-  const cecilia({super.key});
+class ceci extends StatelessWidget {
+  const ceci({super.key});
 
   @override
   Widget build(BuildContext context) {
