@@ -1,6 +1,6 @@
 import 'package:flutter/material.dars'
     
-    class  extends StatelessWidget {
+    class edward  extends StatelessWidget {
       const ({super.key});
     
       @override
