@@ -1,7 +1,13 @@
-import 'package:flutter/material.dart'
+import 'package:flutter/material.dart';
 
+
+<<<<<<< HEAD
 class ceciliagay extends StatefulWidget {
   const ceciliagay({super.key});
+=======
+class cecilia extends StatelessWidget {
+  const cecilia({super.key});
+>>>>>>> 8eee96acd3f7aa4bd78ac015069c4e2ab52181d6
 
   @override
   State<ceciliagay> createState() => _ceciliagayState();
