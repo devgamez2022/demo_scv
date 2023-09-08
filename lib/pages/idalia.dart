@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 
-class Wendy extends StatelessWidget {
-  const Wendy({super.key});
+class idalia extends StatelessWidget {
+  const idalia({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
   }
 }
-
-
