@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class brenda extends StatelessWidget {
-  const brenda({super.key});
+class brenda12 extends StatelessWidget {
+  const brenda12({super.key});
 
   @override
   Widget build(BuildContext context) {
