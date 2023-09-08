@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
 class yordyhd12 extends StatefulWidget {
-  const yordyhd({super.key});
+  const yordyhd12({super.key});
 
   @override
-  State<yordyhd> createState() => _yordyhdState();
+  State<yordyhd12> createState() => _yordyhd12State();
 }
 
-class _yordyhdState extends State<yordyhd> with SingleTickerProviderStateMixin {
+class _yordyhd12State extends State<yordyhd12> with SingleTickerProviderStateMixin {
   late AnimationController _controller;
 
   @override
