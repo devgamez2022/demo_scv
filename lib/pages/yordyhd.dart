@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class yordyhd extends StatefulWidget {
+class yordyhd12 extends StatefulWidget {
   const yordyhd({super.key});
 
   @override
