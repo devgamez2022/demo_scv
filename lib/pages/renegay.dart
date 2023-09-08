@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-class jamileth extends StatelessWidget {
-  const jamileth({super.key});
+class renegay extends StatelessWidget {
+  const renegay({super.key});
 
   @override
   Widget build(BuildContext context) {
